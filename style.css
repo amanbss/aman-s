@@ -1,0 +1,47 @@
+
+
+.a {
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  margin-top: 10px;
+}
+#a {
+  font-family: "Poppins", sans-serif;
+}
+#btn {
+  color: white;
+  background-color: rgb(13, 45, 116);
+  border-radius: 10px;
+  border: 2px solid rgb(11, 39, 128);
+  height: 5vh;
+  width: 60vw;
+}
+
+@media  screen and (max-width: 370px) {
+    #btn{
+      color: white;
+    background-color: rgb(13, 45, 116);
+    border-radius: 10px;
+    border: 2px solid rgb(11, 39, 128);
+    height: 6vh;
+    width: 60vw;
+    font-size: 13px;
+  
+    }
+    
+  }
+#input1 {
+  height: 5vh;
+  width: 60vw;
+}
+#input2 {
+  height: 5vh;
+  width: 60vw;
+}
+#p {
+  color: rgb(12, 72, 201);
+}
+#anc {
+  text-decoration: none;
+}
